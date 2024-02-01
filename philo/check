@@ -1,0 +1,354 @@
+setup_data
+setup_philo
+build_forks
+[96m     0[95m   0 [90mhas taken a fork
+[0m[96m     0[95m   0 [90mhas taken a fork
+[0m[96m     0[95m   0 [0mis [92meating[0m
+[96m     0[95m   2 [90mhas taken a fork
+[0m[96m     0[95m   2 [90mhas taken a fork
+[0m[96m     0[95m   2 [0mis [92meating[0m
+[96m     0[95m   4 [90mhas taken a fork
+[0m[96m     0[95m   4 [90mhas taken a fork
+[0m[96m     0[95m   4 [0mis [92meating[0m
+[96m     0[95m   6 [90mhas taken a fork
+[0m[96m     0[95m   6 [90mhas taken a fork
+[0m[96m     0[95m   6 [0mis [92meating[0m
+[96m     0[95m   8 [90mhas taken a fork
+[0m[96m     0[95m   8 [90mhas taken a fork
+[0m[96m     0[95m   8 [0mis [92meating[0m
+[96m     0[95m  10 [90mhas taken a fork
+[0m[96m     0[95m  10 [90mhas taken a fork
+[0m[96m     0[95m  10 [0mis [92meating[0m
+[96m     0[95m  12 [90mhas taken a fork
+[0m[96m     0[95m  12 [90mhas taken a fork
+[0m[96m     0[95m  12 [0mis [92meating[0m
+[96m     0[95m  14 [90mhas taken a fork
+[0m[96m     0[95m  14 [90mhas taken a fork
+[0m[96m     0[95m  14 [0mis [92meating[0m
+[96m     0[95m  16 [90mhas taken a fork
+[0m[96m     0[95m  16 [90mhas taken a fork
+[0m[96m     0[95m  16 [0mis [92meating[0m
+[96m     0[95m  18 [90mhas taken a fork
+[0m[96m     0[95m  18 [90mhas taken a fork
+[0m[96m     0[95m  18 [0mis [92meating[0m
+[96m     1[95m  20 [90mhas taken a fork
+[0m[96m     1[95m  20 [90mhas taken a fork
+[0m[96m     1[95m  20 [0mis [92meating[0m
+[96m     1[95m  22 [90mhas taken a fork
+[0m[96m     1[95m  22 [90mhas taken a fork
+[0m[96m     1[95m  22 [0mis [92meating[0m
+[96m     1[95m  24 [90mhas taken a fork
+[0m[96m     1[95m  24 [90mhas taken a fork
+[0m[96m     1[95m  24 [0mis [92meating[0m
+[96m     1[95m  26 [90mhas taken a fork
+[0m[96m     1[95m  26 [90mhas taken a fork
+[0m[96m     1[95m  26 [0mis [92meating[0m
+[96m     1[95m  28 [90mhas taken a fork
+[0m[96m     1[95m  28 [90mhas taken a fork
+[0m[96m     1[95m  28 [0mis [92meating[0m
+[96m     1[95m  30 [90mhas taken a fork
+[0m[96m     1[95m  30 [90mhas taken a fork
+[0m[96m     1[95m  30 [0mis [92meating[0m
+[96m     1[95m  32 [90mhas taken a fork
+[0m[96m     1[95m  32 [90mhas taken a fork
+[0m[96m     1[95m  32 [0mis [92meating[0m
+[96m     1[95m  34 [90mhas taken a fork
+[0m[96m     1[95m  34 [90mhas taken a fork
+[0m[96m     1[95m  34 [0mis [92meating[0m
+[96m     1[95m  36 [90mhas taken a fork
+[0m[96m     1[95m  36 [90mhas taken a fork
+[0m[96m     1[95m  36 [0mis [92meating[0m
+[96m     1[95m  38 [90mhas taken a fork
+[0m[96m     1[95m  38 [90mhas taken a fork
+[0m[96m     1[95m  38 [0mis [92meating[0m
+[96m     1[95m  40 [90mhas taken a fork
+[0m[96m     1[95m  40 [90mhas taken a fork
+[0m[96m     1[95m  40 [0mis [92meating[0m
+[96m     1[95m  42 [90mhas taken a fork
+[0m[96m     1[95m  42 [90mhas taken a fork
+[0m[96m     1[95m  42 [0mis [92meating[0m
+[96m     1[95m  44 [90mhas taken a fork
+[0m[96m     1[95m  44 [90mhas taken a fork
+[0m[96m     1[95m  44 [0mis [92meating[0m
+[96m     1[95m  46 [90mhas taken a fork
+[0m[96m     1[95m  46 [90mhas taken a fork
+[0m[96m     1[95m  46 [0mis [92meating[0m
+[96m     1[95m  48 [90mhas taken a fork
+[0m[96m     1[95m  48 [90mhas taken a fork
+[0m[96m     1[95m  48 [0mis [92meating[0m
+[96m     1[95m  50 [90mhas taken a fork
+[0m[96m     1[95m  50 [90mhas taken a fork
+[0m[96m     1[95m  50 [0mis [92meating[0m
+[96m     1[95m  52 [90mhas taken a fork
+[0m[96m     1[95m  52 [90mhas taken a fork
+[0m[96m     1[95m  52 [0mis [92meating[0m
+[96m     1[95m  54 [90mhas taken a fork
+[0m[96m     1[95m  54 [90mhas taken a fork
+[0m[96m     1[95m  54 [0mis [92meating[0m
+[96m     1[95m  56 [90mhas taken a fork
+[0m[96m     1[95m  56 [90mhas taken a fork
+[0m[96m     1[95m  56 [0mis [92meating[0m
+[96m     1[95m  58 [90mhas taken a fork
+[0m[96m     1[95m  58 [90mhas taken a fork
+[0m[96m     1[95m  58 [0mis [92meating[0m
+[96m     1[95m  60 [90mhas taken a fork
+[0m[96m     1[95m  60 [90mhas taken a fork
+[0m[96m     1[95m  60 [0mis [92meating[0m
+[96m     1[95m  62 [90mhas taken a fork
+[0m[96m     1[95m  62 [90mhas taken a fork
+[0m[96m     1[95m  62 [0mis [92meating[0m
+[96m     1[95m  64 [90mhas taken a fork
+[0m[96m     1[95m  64 [90mhas taken a fork
+[0m[96m     1[95m  64 [0mis [92meating[0m
+[96m     1[95m  66 [90mhas taken a fork
+[0m[96m     1[95m  66 [90mhas taken a fork
+[0m[96m     1[95m  66 [0mis [92meating[0m
+[96m     1[95m  68 [90mhas taken a fork
+[0m[96m     1[95m  68 [90mhas taken a fork
+[0m[96m     1[95m  68 [0mis [92meating[0m
+[96m     1[95m  70 [90mhas taken a fork
+[0m[96m     1[95m  70 [90mhas taken a fork
+[0m[96m     1[95m  70 [0mis [92meating[0m
+[96m     1[95m  72 [90mhas taken a fork
+[0m[96m     1[95m  72 [90mhas taken a fork
+[0m[96m     1[95m  72 [0mis [92meating[0m
+[96m     1[95m  74 [90mhas taken a fork
+[0m[96m     1[95m  74 [90mhas taken a fork
+[0m[96m     1[95m  74 [0mis [92meating[0m
+[96m     1[95m  76 [90mhas taken a fork
+[0m[96m     1[95m  76 [90mhas taken a fork
+[0m[96m     1[95m  76 [0mis [92meating[0m
+[96m     1[95m  78 [90mhas taken a fork
+[0m[96m     1[95m  78 [90mhas taken a fork
+[0m[96m     1[95m  78 [0mis [92meating[0m
+[96m     2[95m  80 [90mhas taken a fork
+[0m[96m     2[95m  80 [90mhas taken a fork
+[0m[96m     2[95m  80 [0mis [92meating[0m
+[96m     2[95m  82 [90mhas taken a fork
+[0m[96m     2[95m  82 [90mhas taken a fork
+[0m[96m     2[95m  82 [0mis [92meating[0m
+[96m     2[95m  84 [90mhas taken a fork
+[0m[96m     2[95m  84 [90mhas taken a fork
+[0m[96m     2[95m  84 [0mis [92meating[0m
+[96m     2[95m  86 [90mhas taken a fork
+[0m[96m     2[95m  86 [90mhas taken a fork
+[0m[96m     2[95m  86 [0mis [92meating[0m
+[96m     2[95m  88 [90mhas taken a fork
+[0m[96m     2[95m  88 [90mhas taken a fork
+[0m[96m     2[95m  88 [0mis [92meating[0m
+[96m     2[95m  90 [90mhas taken a fork
+[0m[96m     2[95m  90 [90mhas taken a fork
+[0m[96m     2[95m  90 [0mis [92meating[0m
+[96m     2[95m  92 [90mhas taken a fork
+[0m[96m     2[95m  92 [90mhas taken a fork
+[0m[96m     2[95m  92 [0mis [92meating[0m
+[96m     2[95m  94 [90mhas taken a fork
+[0m[96m     2[95m  94 [90mhas taken a fork
+[0m[96m     2[95m  94 [0mis [92meating[0m
+[96m     2[95m  96 [90mhas taken a fork
+[0m[96m     2[95m  96 [90mhas taken a fork
+[0m[96m     2[95m  96 [0mis [92meating[0m
+[96m     2[95m  98 [90mhas taken a fork
+[0m[96m     2[95m  98 [90mhas taken a fork
+[0m[96m     2[95m  98 [0mis [92meating[0m
+[96m     2[95m 100 [90mhas taken a fork
+[0m[96m     2[95m 100 [90mhas taken a fork
+[0m[96m     2[95m 100 [0mis [92meating[0m
+[96m     2[95m 102 [90mhas taken a fork
+[0m[96m     2[95m 102 [90mhas taken a fork
+[0m[96m     2[95m 102 [0mis [92meating[0m
+[96m     2[95m 104 [90mhas taken a fork
+[0m[96m     2[95m 104 [90mhas taken a fork
+[0m[96m     2[95m 104 [0mis [92meating[0m
+[96m     2[95m 106 [90mhas taken a fork
+[0m[96m     2[95m 106 [90mhas taken a fork
+[0m[96m     2[95m 106 [0mis [92meating[0m
+[96m     2[95m 108 [90mhas taken a fork
+[0m[96m     2[95m 108 [90mhas taken a fork
+[0m[96m     2[95m 108 [0mis [92meating[0m
+[96m     2[95m 110 [90mhas taken a fork
+[0m[96m     2[95m 110 [90mhas taken a fork
+[0m[96m     2[95m 110 [0mis [92meating[0m
+[96m     2[95m 112 [90mhas taken a fork
+[0m[96m     2[95m 112 [90mhas taken a fork
+[0m[96m     2[95m 112 [0mis [92meating[0m
+[96m     2[95m 114 [90mhas taken a fork
+[0m[96m     2[95m 114 [90mhas taken a fork
+[0m[96m     2[95m 114 [0mis [92meating[0m
+[96m     2[95m 116 [90mhas taken a fork
+[0m[96m     2[95m 116 [90mhas taken a fork
+[0m[96m     2[95m 116 [0mis [92meating[0m
+[96m     2[95m 118 [90mhas taken a fork
+[0m[96m     2[95m 118 [90mhas taken a fork
+[0m[96m     2[95m 118 [0mis [92meating[0m
+[96m     2[95m 120 [90mhas taken a fork
+[0m[96m     2[95m 120 [90mhas taken a fork
+[0m[96m     2[95m 120 [0mis [92meating[0m
+[96m     2[95m 122 [90mhas taken a fork
+[0m[96m     2[95m 122 [90mhas taken a fork
+[0m[96m     2[95m 122 [0mis [92meating[0m
+[96m     2[95m 124 [90mhas taken a fork
+[0m[96m     2[95m 124 [90mhas taken a fork
+[0m[96m     2[95m 124 [0mis [92meating[0m
+[96m     2[95m 126 [90mhas taken a fork
+[0m[96m     2[95m 126 [90mhas taken a fork
+[0m[96m     2[95m 126 [0mis [92meating[0m
+[96m     2[95m 128 [90mhas taken a fork
+[0m[96m     2[95m 128 [90mhas taken a fork
+[0m[96m     2[95m 128 [0mis [92meating[0m
+[96m     2[95m 130 [90mhas taken a fork
+[0m[96m     2[95m 130 [90mhas taken a fork
+[0m[96m     2[95m 130 [0mis [92meating[0m
+[96m     2[95m 132 [90mhas taken a fork
+[0m[96m     2[95m 132 [90mhas taken a fork
+[0m[96m     2[95m 132 [0mis [92meating[0m
+[96m     2[95m 134 [90mhas taken a fork
+[0m[96m     2[95m 134 [90mhas taken a fork
+[0m[96m     2[95m 134 [0mis [92meating[0m
+[96m     2[95m 136 [90mhas taken a fork
+[0m[96m     2[95m 136 [90mhas taken a fork
+[0m[96m     2[95m 136 [0mis [92meating[0m
+[96m     2[95m 138 [90mhas taken a fork
+[0m[96m     2[95m 138 [90mhas taken a fork
+[0m[96m     2[95m 138 [0mis [92meating[0m
+[96m     2[95m 140 [90mhas taken a fork
+[0m[96m     2[95m 140 [90mhas taken a fork
+[0m[96m     2[95m 140 [0mis [92meating[0m
+[96m     2[95m 142 [90mhas taken a fork
+[0m[96m     2[95m 142 [90mhas taken a fork
+[0m[96m     2[95m 142 [0mis [92meating[0m
+[96m     3[95m 144 [90mhas taken a fork
+[0m[96m     3[95m 144 [90mhas taken a fork
+[0m[96m     3[95m 144 [0mis [92meating[0m
+[96m     3[95m 146 [90mhas taken a fork
+[0m[96m     3[95m 146 [90mhas taken a fork
+[0m[96m     3[95m 146 [0mis [92meating[0m
+[96m     3[95m 148 [90mhas taken a fork
+[0m[96m     3[95m 148 [90mhas taken a fork
+[0m[96m     3[95m 148 [0mis [92meating[0m
+[96m     3[95m 150 [90mhas taken a fork
+[0m[96m     3[95m 150 [90mhas taken a fork
+[0m[96m     3[95m 150 [0mis [92meating[0m
+[96m     3[95m 152 [90mhas taken a fork
+[0m[96m     3[95m 152 [90mhas taken a fork
+[0m[96m     3[95m 152 [0mis [92meating[0m
+[96m     3[95m 154 [90mhas taken a fork
+[0m[96m     3[95m 154 [90mhas taken a fork
+[0m[96m     3[95m 154 [0mis [92meating[0m
+[96m     3[95m 156 [90mhas taken a fork
+[0m[96m     3[95m 156 [90mhas taken a fork
+[0m[96m     3[95m 156 [0mis [92meating[0m
+[96m     3[95m 158 [90mhas taken a fork
+[0m[96m     3[95m 158 [90mhas taken a fork
+[0m[96m     3[95m 158 [0mis [92meating[0m
+[96m     3[95m 160 [90mhas taken a fork
+[0m[96m     3[95m 160 [90mhas taken a fork
+[0m[96m     3[95m 160 [0mis [92meating[0m
+[96m     3[95m 162 [90mhas taken a fork
+[0m[96m     3[95m 162 [90mhas taken a fork
+[0m[96m     3[95m 162 [0mis [92meating[0m
+[96m     3[95m 164 [90mhas taken a fork
+[0m[96m     3[95m 164 [90mhas taken a fork
+[0m[96m     3[95m 164 [0mis [92meating[0m
+[96m     3[95m 166 [90mhas taken a fork
+[0m[96m     3[95m 166 [90mhas taken a fork
+[0m[96m     3[95m 166 [0mis [92meating[0m
+[96m     3[95m 168 [90mhas taken a fork
+[0m[96m     3[95m 168 [90mhas taken a fork
+[0m[96m     3[95m 168 [0mis [92meating[0m
+[96m     3[95m 170 [90mhas taken a fork
+[0m[96m     3[95m 170 [90mhas taken a fork
+[0m[96m     3[95m 170 [0mis [92meating[0m
+[96m     3[95m 172 [90mhas taken a fork
+[0m[96m     3[95m 172 [90mhas taken a fork
+[0m[96m     3[95m 172 [0mis [92meating[0m
+[96m     3[95m 174 [90mhas taken a fork
+[0m[96m     3[95m 174 [90mhas taken a fork
+[0m[96m     3[95m 174 [0mis [92meating[0m
+[96m     3[95m 176 [90mhas taken a fork
+[0m[96m     3[95m 176 [90mhas taken a fork
+[0m[96m     3[95m 176 [0mis [92meating[0m
+[96m     3[95m 178 [90mhas taken a fork
+[0m[96m     3[95m 178 [90mhas taken a fork
+[0m[96m     3[95m 178 [0mis [92meating[0m
+[96m     3[95m 180 [90mhas taken a fork
+[0m[96m     3[95m 180 [90mhas taken a fork
+[0m[96m     3[95m 180 [0mis [92meating[0m
+[96m     3[95m 182 [90mhas taken a fork
+[0m[96m     3[95m 182 [90mhas taken a fork
+[0m[96m     3[95m 182 [0mis [92meating[0m
+[96m     3[95m 184 [90mhas taken a fork
+[0m[96m     3[95m 184 [90mhas taken a fork
+[0m[96m     3[95m 184 [0mis [92meating[0m
+[96m     3[95m 186 [90mhas taken a fork
+[0m[96m     3[95m 186 [90mhas taken a fork
+[0m[96m     3[95m 186 [0mis [92meating[0m
+[96m     3[95m 188 [90mhas taken a fork
+[0m[96m     3[95m 188 [90mhas taken a fork
+[0m[96m     3[95m 188 [0mis [92meating[0m
+[96m     3[95m 190 [90mhas taken a fork
+[0m[96m     3[95m 190 [90mhas taken a fork
+[0m[96m     3[95m 190 [0mis [92meating[0m
+[96m     3[95m 192 [90mhas taken a fork
+[0m[96m     3[95m 192 [90mhas taken a fork
+[0m[96m     3[95m 192 [0mis [92meating[0m
+[96m     3[95m 194 [90mhas taken a fork
+[0m[96m     3[95m 194 [90mhas taken a fork
+[0m[96m     3[95m 194 [0mis [92meating[0m
+[96m     3[95m 196 [90mhas taken a fork
+[0m[96m     3[95m 196 [90mhas taken a fork
+[0m[96m     3[95m 196 [0mis [92meating[0m
+[96m     4[95m 198 [90mhas taken a fork
+[0m[96m     4[95m 198 [90mhas taken a fork
+[0m[96m     4[95m 198 [0mis [92meating[0m
+[96m   200[95m   0 [0mis [94msleeping
+[0m[96m   200[95m   2 [0mis [94msleeping
+[0m[96m   200[95m   1 [90mhas taken a fork
+[0m[96m   200[95m   1 [90mhas taken a fork
+[0m[96m   200[95m   1 [0mis [92meating[0m
+[96m   200[95m   5 [90mhas taken a fork
+[0m[96m   200[95m  12 [0mis [94msleeping
+[0m[96m   200[95m   3 [90mhas taken a fork
+[0m[96m   200[95m   3 [90mhas taken a fork
+[0m[96m   200[95m   3 [0mis [92meating[0m
+[96m   200[95m   4 [0mis [94msleeping
+[0m[96m   200[95m  10 [0mis [94msleeping
+[0m[96m   200[95m  13 [90mhas taken a fork
+[0m[96m   200[95m  14 [0mis [94msleeping
+[0m[96m   200[95m   5 [90mhas taken a fork
+[0m[96m   200[95m   5 [0mis [92meating[0m
+[96m   200[95m  17 [90mhas taken a fork
+[0m[96m   200[95m  15 [90mhas taken a fork
+[0m[96m   200[95m  15 [90mhas taken a fork
+[0m[96m   200[95m  15 [0mis [92meating[0m
+[96m   200[95m   6 [0mis [94msleeping
+[0m[96m   200[95m  11 [90mhas taken a fork
+[0m[96m   200[95m  11 [90mhas taken a fork
+[0m[96m   200[95m  11 [0mis [92meating[0m
+[96m   200[95m  16 [0mis [94msleeping
+[0m[96m   200[95m  13 [90mhas taken a fork
+[0m[96m   200[95m  13 [0mis [92meating[0m
+[96m   200[95m   7 [90mhas taken a fork
+[0m[96m   200[95m   8 [0mis [94msleeping
+[0m[96m   200[95m  18 [0mis [94msleeping
+[0m[96m   200[95m  19 [90mhas taken a fork
+[0m[96m   200[95m  17 [90mhas taken a fork
+[0m[96m   200[95m  17 [0mis [92meating[0m
+[96m   200[95m   9 [90mhas taken a fork
+[0m[96m   200[95m   9 [90mhas taken a fork
+[0m[96m   200[95m   9 [0mis [92meating[0m
+[96m   200[95m   7 [90mhas taken a fork
+[0m[96m   200[95m   7 [0mis [92meating[0m
+[96m   201[95m  70 [0mis [94msleeping
+[0m[96m   201[95m  64 [0mis [94msleeping
+[0m[96m   201[95m  71 [90mhas taken a fork
+[0m[96m   201[95m  50 [0mis [94msleeping
+[0m[96m   201[95m  72 [0mis [94msleeping
+[0m[96m   201[95m  51 [90mhas taken a fork
+[0m[96m   201[95m  71 [90mhas taken a fork
+[0m[96m   201[95m  71 [0mis [92meating[0m
+[96m   201[95m  32 [0mis [94msleeping
+[0m[96m   201[95m  65 [90mhas taken a fork
+[0m[96m   201[95m  73 [90mhas taken a fork
+[0m[96m   201[95m  44 [0mis [94msleeping
+[0m[96m   201[95m  67 [0mis [91mdead[0m
